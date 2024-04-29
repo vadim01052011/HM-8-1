@@ -1,0 +1,154 @@
+.table-head:hover {
+    color: blue;
+}
+
+.item-days0:active {
+    background-color: green;
+    transform: scale(1);
+}
+
+.item-days1 {
+    color: darkmagenta;
+}
+
+.item-days2 {
+    color: chocolate;
+}
+
+.item-days3 {
+    color: darkslateblue;
+}
+
+.item-days4 {
+    color: darkmagenta;
+}
+
+.item-days5 {
+    color: aqua;
+}
+
+
+
+.item-lesson1_0:focus {
+    background-color: red;
+}
+
+.item-lesson1_1 {
+    color: yellow;
+}
+
+.item-lesson1_2 {
+    color: brown;
+}
+
+.item-lesson1_3 {
+    color: gray;
+}
+
+.item-lesson1_4 {
+    color: fuchsia;
+}
+
+.item-lesson1_5 {
+    color: darkseagreen;
+}
+
+
+.item-lesson2_0:checked {
+    background-color: royalblue;
+}
+
+.item-lesson2_1 {
+    color: chartreuse;
+}
+
+.item-lesson2_2 {
+    color: violet;
+}
+
+.item-lesson2_3 {
+    color: coral;
+}
+
+.item-lesson2_4 {
+    color: maroon;
+}
+
+.item-lesson2_5 {
+    color: darkmagenta;
+}
+
+
+.item-lesson3_0:first-child {
+    color: forestgreen;
+}
+
+.item-lesson3_1 {
+    color: lightsalmon;
+}
+
+.item-lesson3_2 {
+    color: goldenrod;
+}
+
+.item-lesson3_3 {
+    color: red;
+}
+
+.item-lesson3_4 {
+    color: darkmagenta;
+}
+
+.item-lesson3_5 {
+    color: sienna;
+}
+
+
+.item-lesson4_0:nth-child(1) {
+    color: blue;
+}
+
+.item-lesson4_1 {
+    color: aqua;
+}
+
+.item-lesson4_2 {
+    color: mediumblue;
+}
+
+.item-lesson4_3 {
+    color: firebrick;
+}
+
+.item-lesson4_4 {
+    color: chartreuse;
+}
+
+.item-lesson4_5 {
+    color: darkgreen;
+}
+
+
+.item-lesson5_0:nth-child(odd) {
+    color: darkorchid;
+}
+
+.item-lesson5_1 {
+    color: fuchsia;
+}
+
+.item-lesson5_2 {
+    color: seagreen;
+}
+
+.item-lesson5_3 {
+    color: hotpink;
+}
+
+.item-lesson5_4 {
+    color: tomato;
+}
+
+.item-lesson5_5 {
+    color: red;
+}
